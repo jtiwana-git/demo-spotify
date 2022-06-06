@@ -1,0 +1,18 @@
+.leftsidebar{
+    border: 1px solid rgb(12, 246, 4);
+    height: 100vh;
+    flex: 0.2;
+    min-width: 230px;
+}
+
+.L-Sidebar__avatar {
+    object-fit: contain;
+    height: 5rem;
+    width: 8rem;
+    padding: 10px;
+    margin-right: auto;
+}
+
+.sidebar__title{
+    color: blue;
+}

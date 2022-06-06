@@ -1,0 +1,6 @@
+.rightsidebar{
+border: 1px solid rgb(232, 8, 214);
+height: 100vh;
+flex: 0.2;
+min-width: 230px;
+}

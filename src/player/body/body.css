@@ -1,0 +1,26 @@
+.body{
+    border:  1px solid red;
+    flex: 0.6;
+    height: 100vh;
+    padding: 30px;
+}
+
+.body_songs {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.body_icons{
+    display: flex;
+    align-items: center;
+
+}
+
+.body_songs{
+    margin:  20px -30px;
+}
+
